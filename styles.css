@@ -31,19 +31,19 @@
 }
 
 .header-button{
-    text-align: center;
+    /* text-align: center; */
     background: #F15B22;
-    border-radius: 5px;
+    border-radius: 10px;
     position: absolute;
     width: 160px;
     height: 64px;
     left: 1440px;
-    padding: 10px;
+    /* padding: 10px; */
     margin-right: 0;
     border: none;
     color: #FFFFFF;
-    font-weight: 600;
-    font-size: 20px;
+    font-weight: 500;
+    font-size: 18px;
 }
 /* main section sarted*/
 .main-section{
