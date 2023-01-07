@@ -82,7 +82,8 @@
     display: flex;
     justify-content: space-around;
     margin: 100px 180px;
-    gap: 10px;
+    gap: 20px;
+    text-align: center;
 }
 .plan-sub-title{
     font-weight: 700;
@@ -125,7 +126,7 @@
     font-weight: 600;
     font-size: 20px;
     border: none;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 /* footer */
 .footer-image{
@@ -170,7 +171,7 @@
     border-radius: 10px;
     color: #F3F3F3;
     background-color: #151414;
-    
+    border: 1px solid black;
     
 }
 .submit-button{
