@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* header section started */
+.header-image{
+    background: url("images/banner/banner2.png");
+    height: 800px;
+    width: 1600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+}
+.header-title{
+    text-align: right;
+    padding-top: 300px;
+    font-weight: 700;
+    font-size: 65px;
+    color: #151414;
+
+}
+.header-description{
+    text-align: right;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.header-button{
+    text-align: center;
+    background: #F15B22;
+    border-radius: 5px;
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1440px;
+    padding: 25px;
+    margin-right: 0;
+    border: none;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+}
+/* main section sarted*/
+.main-section{
+    display: flex;
+    margin: 150px;
+    gap: 100px;
+}
+.failure-title{
+    padding-top: 250px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 35px;
+}
+.failure-description{
+    font-size: 20px;
+    color: #444343;
+    
+    
+}
+.failure-list{
+    list-style: none;
+    margin-top: 20px;
+    
+}
+.checkmark-color{
+    color: rgb(4, 80, 44);
+}
+/* plan section started */
+.plan-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+.plan-items{
+    display: flex;
+    justify-content: space-around;
+    margin: 100px 180px;
+    gap: 10px;
+}
+.plan-sub-title{
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    
+}
+.plan-description{
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
