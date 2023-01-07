@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 /* header section started */
@@ -31,14 +31,12 @@
 }
 
 .header-button{
-    /* text-align: center; */
     background: #F15B22;
     border-radius: 10px;
     position: absolute;
     width: 160px;
     height: 64px;
     left: 1440px;
-    /* padding: 10px; */
     margin-right: 0;
     border: none;
     color: #FFFFFF;
@@ -60,14 +58,11 @@
 }
 .failure-description{
     font-size: 20px;
-    color: #444343;
-    
-    
+    color: #444343;    
 }
 .failure-list{
     list-style: none;
-    margin-top: 20px;
-    
+    margin-top: 20px;    
 }
 .checkmark-color{
     color: rgb(4, 80, 44);
